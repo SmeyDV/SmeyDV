@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reaksmey Rin</h1>
 <h3 align="center">A Computer Science Student</h3>
-<img src="https://backiee.com/static/wallpapers/1000x563/386741.jpg" alt="Background Image" width="50%" />
+<img src="https://backiee.com/static/wallpapers/1000x563/386741.jpg" alt="Background Image" width="100%" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=smeydv&label=Profile%20views&color=0e75b6&style=flat" alt="smeydv" />

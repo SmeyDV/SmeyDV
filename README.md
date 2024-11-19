@@ -60,6 +60,13 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>
   </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/>
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smeydv&show_icons=true&locale=en&layout=compact" alt="smeydv" /></p>
